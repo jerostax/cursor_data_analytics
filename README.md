@@ -59,11 +59,13 @@ python analyze.py path/to/your_file.csv
 
 ## Project Structure
 
+```
 cursor_data_analytics/
 ├── analyze.py # Main analysis script
 ├── sales_data.csv # Sample data (replaceable)
 ├── README.md # This guide
 └── venv/ # Virtual environment (after setup)
+```
 
 
 ## Extending This Project
